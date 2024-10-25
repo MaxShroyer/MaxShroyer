@@ -1,5 +1,5 @@
 ## Hi there 👋
-📫 Reach out through my contact form on my <a href="https://www.maxshroyer.com/"> Portfolio Website </a>
+📫 Reach out through the contact form on my <a href="https://www.maxshroyer.com/#contact"> Portfolio Website </a>
 <!--
 **MaxShroyer/MaxShroyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
